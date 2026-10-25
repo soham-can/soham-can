@@ -76,6 +76,6 @@ Analysis of retail sales data to explore patterns, trends, and business insights
 
 ---
 
-\<p align="center">
-&#x20; \<i>Learn deeply. Build consistently. Improve continuously.\</i>
-\</p>
+<p align="center">
+  <i>Learn deeply. Build consistently. Improve continuously.</i>
+</p>
