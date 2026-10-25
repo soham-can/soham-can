@@ -1,82 +1,81 @@
+# Hi, I'm Soham Sharma 👋
 
-<h1 align="center">Hi, I'm Soham Sharma 👋</h1>
+**Computer Science Undergraduate at IIIT Una**
+*Machine Learning · Computer Vision · Software Engineering*
 
-<p align="center">
-  Computer Science Student | Machine Learning | Deep Learning | Computer Vision
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/soham-sharma-b282a3324/">
-    LinkedIn
-  </a>
-  ·
-  <a href="https://leetcode.com/u/soham_015/">
-    LeetCode
-  </a>
-  ·
-  <a href="https://www.codechef.com/users/infinity_015">
-    CodeChef
-  </a>
-</p>
+I enjoy understanding how algorithms work under the hood and turning that knowledge into practical projects. My interests span machine learning, deep learning, computer vision, and problem-solving with C++.
 
 ---
 
 ## About Me
 
-- 🎓 Computer Science undergraduate at IIIT Una.
-- 🤖 Exploring machine learning, deep learning, and computer vision.
-- 🛠️ Interested in implementing algorithms and building practical ML projects.
-- 📚 Currently strengthening my skills in deep learning and object detection.
+- Building projects across machine learning, deep learning, and computer vision.
+- Strengthening my foundations in data structures, algorithms, and software development.
+- Interested in implementing algorithms from scratch and understanding their underlying principles.
+- Currently exploring deep learning architectures and object detection.
 
 ## Tech Stack
 
 **Languages**
-- Python, C++, SQL
+
+`Python` `C++` `SQL`
 
 **Machine Learning & Data Science**
-- NumPy, Pandas, Scikit-learn
-- TensorFlow / Keras
-- Matplotlib, OpenCV
+
+`NumPy` `Pandas` `Scikit-learn` `TensorFlow / Keras`
+
+**Computer Vision & Visualization**
+
+`OpenCV` `Matplotlib`
 
 **Tools**
-- Git, GitHub, Jupyter Notebook
+
+`Git` `GitHub` `Jupyter Notebook`
+
+---
 
 ## Featured Projects
 
-### 🔍 IoU & NMS from Scratch
-Implementation of Intersection over Union and greedy
-Non-Maximum Suppression, with visualizations, threshold
-experiments, and automated tests.
+### 01 · [PawVision — Cats vs. Dogs](https://github.com/soham-can/pawvision-cats-vs-dogs)
 
-**Tech:** Python, NumPy, Matplotlib, pytest
+Image classification using convolutional neural networks (CNNs), exploring deep learning workflows for visual recognition.
 
-### 🐾 PawVision — Cats vs. Dogs
-CNN-based image classification project exploring deep
-learning for image recognition.
+**Focus:** Deep Learning · CNNs · Image Classification
 
-[View Repository](https://github.com/soham-can/pawvision-cats-vs-dogs)
+### 02 · [IoU & NMS from Scratch](https://github.com/soham-can/iou-nms-from-scratch)
 
-### 📊 Customer Churn Analysis
-Machine learning and data analysis project exploring
-customer churn patterns.
+Implementation of Intersection over Union (IoU) and greedy Non-Maximum Suppression (NMS), with bounding-box visualizations, threshold experiments, and automated tests.
 
-[View Repository](https://github.com/soham-can/customer-churn-analysis)
+**Focus:** Computer Vision · Algorithm Implementation · Testing
 
-### 📈 Retail Sales Analysis
-Exploratory data analysis of retail sales data.
+> 
 
-[View Repository](https://github.com/soham-can/retail-sale-analysis)
+### 03 · [Customer Churn Analysis](https://github.com/soham-can/customer-churn-analysis)
 
----
+Exploratory data analysis and machine learning workflows for investigating customer churn patterns.
 
-## Currently Learning
+**Focus:** Data Analysis · Machine Learning · Model Evaluation
 
-- Deep Learning architectures
-- Object detection and computer vision
-- Model evaluation and experimentation
+### 04 · [Retail Sales Analysis](https://github.com/soham-can/retail-sale-analysis)
+
+Analysis of retail sales data to explore patterns, trends, and business insights.
+
+**Focus:** Pandas · Data Analysis · Data Visualization
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile!
-</p>
+## Problem Solving
+
+- [LeetCode](https://leetcode.com/u/soham_015/)
+- [CodeChef](https://www.codechef.com/users/infinity_015)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/soham-sharma-b282a3324/)
+- [GitHub](https://github.com/soham-can)
+
+---
+
+\<p align="center">
+&#x20; \<i>Learn deeply. Build consistently. Improve continuously.\</i>
+\</p>
