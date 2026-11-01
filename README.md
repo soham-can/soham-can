@@ -1,4 +1,4 @@
-# Hi, I'm Soham Sharma 👋
+# Hi, I'm Soham Sharma 
 
 **Computer Science Undergraduate at IIIT Una**
 *Machine Learning · Computer Vision · Software Engineering*
@@ -36,13 +36,19 @@ I enjoy understanding how algorithms work under the hood and turning that knowle
 
 ## Featured Projects
 
-### 01 · [PawVision — Cats vs. Dogs](https://github.com/soham-can/pawvision-cats-vs-dogs)
+### 01 · [YOLO Object Detector](https://github.com/soham-can/YOLO-Object-Detector)
+
+Custom object detection using **Ultralytics YOLO11n**, fine-tuned through transfer learning to detect bicycles, cars, and people. Includes dataset exploration, pretrained inference, confidence and IoU threshold experiments, model training, evaluation, and failure analysis.
+
+**Focus:** Computer Vision · YOLO11 · Transfer Learning · Object Detection · Model Evaluation
+
+### 02 · [PawVision — Cats vs. Dogs](https://github.com/soham-can/pawvision-cats-vs-dogs)
 
 Image classification using convolutional neural networks (CNNs), exploring deep learning workflows for visual recognition.
 
 **Focus:** Deep Learning · CNNs · Image Classification
 
-### 02 · [IoU & NMS from Scratch](https://github.com/soham-can/iou-nms-from-scratch)
+### 03 · [IoU & NMS from Scratch](https://github.com/soham-can/iou-nms-from-scratch)
 
 Implementation of Intersection over Union (IoU) and greedy Non-Maximum Suppression (NMS), with bounding-box visualizations, threshold experiments, and automated tests.
 
@@ -50,13 +56,13 @@ Implementation of Intersection over Union (IoU) and greedy Non-Maximum Suppressi
 
 > 
 
-### 03 · [Customer Churn Analysis](https://github.com/soham-can/customer-churn-analysis)
+### 04 · [Customer Churn Analysis](https://github.com/soham-can/customer-churn-analysis)
 
 Exploratory data analysis and machine learning workflows for investigating customer churn patterns.
 
 **Focus:** Data Analysis · Machine Learning · Model Evaluation
 
-### 04 · [Retail Sales Analysis](https://github.com/soham-can/retail-sale-analysis)
+### 05 · [Retail Sales Analysis](https://github.com/soham-can/retail-sale-analysis)
 
 Analysis of retail sales data to explore patterns, trends, and business insights.
 
